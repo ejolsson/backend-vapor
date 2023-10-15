@@ -1,7 +1,7 @@
 # backend-vapor
 
 In the documentation folder you can find:
-- Draw.io file with the Relational Models (complete and simplified)-
+- Draw.io file with the Relational Models (complete and simplified)
 - Complete relational model image
 - Simplified relational model image (the implemented)
 - xCode documentation of the server (the compressed file)
@@ -10,7 +10,7 @@ In the documentation folder you can find:
 - RestaurantOffersEndPointsPostMan.json : File to load calls to server endpoints in PostMan. (The access token has to be managed in the headers of some of the calls).
 
 En la carpeta de documentación se puede encontrar:
-- Fichero Draw.io  con los Modelos Relacionales (completo y simplificado)-
+- Fichero Draw.io  con los Modelos Relacionales (completo y simplificado)
 - Imagen Modelo Relacional Completo.
 - Imagen Modelo Relacional Simplificado (el implementado)
 - Documentación de xCode del servidor (el fichero comprimido).
