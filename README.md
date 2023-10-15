@@ -1,4 +1,5 @@
 # backend-vapor
+
 In the documentation folder you can find:
 - Draw.io file with the Relational Models (complete and simplified)-
 - Complete relational model image
@@ -6,8 +7,8 @@ In the documentation folder you can find:
 - xCode documentation of the server (the compressed file)
 - PDF Server Quick Guide, small guide with the key points to manage the server with examples of EndPoints
 - RestaurantOffersEndPointsRapidAPI.paw: File for uploading calls to server endpoints in RapidApi. (The variables are linked, little manual management has to be done).
+- RestaurantOffersEndPointsPostMan.json : File to load calls to server endpoints in PostMan. (The access token has to be managed in the headers of some of the calls).
 
-RestaurantOffersEndPointsPostMan.json : File to load calls to server endpoints in PostMan. (The access token has to be managed in the headers of some of the calls).
 En la carpeta de documentación se puede encontrar:
 - Fichero Draw.io  con los Modelos Relacionales (completo y simplificado)-
 - Imagen Modelo Relacional Completo.
