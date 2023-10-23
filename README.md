@@ -1,5 +1,7 @@
 # backend-vapor
 
+Project contributors include: Alberto Junquera Ramirez, Camila López, Enrique Poyato Ortiz, Eric Olsson, and Marta Maquedano.
+
 In the documentation folder you can find:
 - Draw.io file with the Relational Models (complete and simplified)
 - Complete relational model image
